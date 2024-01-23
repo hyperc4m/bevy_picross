@@ -1,0 +1,1 @@
+Simple implementation of a picross game made in bevy. It can take input with the mouse and checks game state for a win condition. Largely based off the breakout game example and snippets from the bevy cheat book
